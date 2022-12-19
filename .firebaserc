@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "n423-jb-fd21e": {
+      "hosting": {
+        "app": [
+          "n423-jb-fd21e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "n423-jb-fd21e"
+  }
+}
